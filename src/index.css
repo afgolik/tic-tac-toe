@@ -6,3 +6,10 @@
 	outline: none;
 	border: none;
 }
+@font-face {
+	font-family: "Xarrovv";
+	src: url("./fonts/Xarrovv.otf");
+}
+body{
+	background-color: #ffd8ab;
+}

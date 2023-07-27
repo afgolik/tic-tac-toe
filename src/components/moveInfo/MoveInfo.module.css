@@ -1,0 +1,11 @@
+.moveInfo {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.img {
+    width: 40px;
+    display: inline-block;
+    margin-left: 10px;
+}

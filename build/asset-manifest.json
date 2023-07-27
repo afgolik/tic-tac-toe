@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.759e8d9f.css",
+    "main.js": "/static/js/main.1d8b539b.js",
+    "static/media/Xarrovv.otf": "/static/media/Xarrovv.f6199d9550eb9c440905.otf",
+    "index.html": "/index.html",
+    "main.759e8d9f.css.map": "/static/css/main.759e8d9f.css.map",
+    "main.1d8b539b.js.map": "/static/js/main.1d8b539b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.759e8d9f.css",
+    "static/js/main.1d8b539b.js"
+  ]
+}

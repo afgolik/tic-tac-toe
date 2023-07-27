@@ -1,0 +1,20 @@
+.item {
+	width: 80px;
+	height: 80px;
+	background-color: #ffdec6;
+	border: 1px solid #f78413;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	cursor: pointer;
+}
+.gameField {
+	margin: 30px auto;
+    display: flex;
+	max-width: 246px;
+	flex-wrap: wrap;
+	border: 1px solid #f78413;
+}
+.img {
+	width: 60px;
+}
